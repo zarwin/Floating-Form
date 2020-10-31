@@ -1,4 +1,4 @@
 # Instagram Form
-This is a Floating Form written In HTML, CSS And JS
+### Responsive Form Written In JS and CSS
 
 ## Visit https://zarwin.github.io/instaform/
